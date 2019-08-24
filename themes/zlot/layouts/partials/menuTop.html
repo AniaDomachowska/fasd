@@ -1,0 +1,48 @@
+{{ $currentUrl := .Permalink }}
+ {{ $menuList := $.Site.Pages}}
+<ul class="menuTop">
+  {{ range where $menuList "Params.parent" ""}}
+  <li>
+    {{ $urlSplitted := split (trim .RelPermalink "/") "/" }}
+    {{ $page := (index (last 1 $urlSplitted) 0) }}
+    {{ $subPages := where $menuList "Params.parent" $page }}
+    {{ $subPages := where $subPages "Params.parent" "!=" "" }}
+    {{ if gt (len $subPages) 0 }}
+    <div class="dropdown" style="display: inline;">
+      <img style="margin-top:-2px" src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.menufile }}" />
+      <b class="caret"></b>
+      <ul class="dropdown-menu">
+        <li>
+          <a href="{{ .Permalink }}">
+            {{ if eq $currentUrl .Permalink }}
+              <img src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.altfileSel }}" />
+            {{ else }}
+              <img src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.altfile }}" />
+            {{ end }}
+          </a>
+        </li>
+        {{ range $subPages}}
+        <li>
+          <a href="{{ .Permalink }}">
+            {{ if eq $currentUrl .Permalink }}
+              <img src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.menufileSel }}" />
+            {{ else }}
+              <img src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.menufile }}" />
+            {{ end }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ else }}
+      <a href="{{ .Permalink }}">
+            {{ if eq $currentUrl .Permalink }}
+            			<img src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.menufileSel }}" />
+            {{ else }}
+									<img src="{{.Site.BaseURL}}/images/menu_{{.Site.Language.Lang}}/{{ .Params.menufile }}" />
+            {{ end }}
+      </a> {{ end }}
+    </a>
+  </li>
+  {{ end }}
+</ul>

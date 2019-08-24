@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+{{ partial "nav.html" . }}
+ueaouao
+    {{ range first 1 .Data.Pages.ByWeight }}
+    <article>
+        <header>
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        </header>
+        {{ .Content }}
+
+    </article>
+    {{ end }}
+
+{{ partial "footer.html" . }}

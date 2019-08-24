@@ -1,0 +1,123 @@
++++
+date = "2016-06-21T00:24:55+02:00"
+draft = false
+title = "Komunikacja"
+weight = 101
+parent = "informacje"
+menufile = "komunikacja.png"
+menufileSel = "komunikacja sel.png"
+slug = "komunikacja"
+url = "komunikacja"
++++
+{{% nowrapconj %}}
+Miejska komunikacja w Gdyni obejmuje trolejbusy i autobusy (ZKM). Na
+terenie Gdyni jeździ także szybka kolej miejska (SKM). Poniżej
+przedstawiamy kluczowe informacje dotyczące zasad kupna biletów na
+komunikację miejską, w tym obowiązujące taryfikatory.
+{{% /nowrapconj %}}
+
+<br/>
+
+{{% nowrapconj %}}
+**BILETY ZKM**
+
+1.  na trolejbusy i autobusy obowiązują te same rodzaje i zasady kupna
+    biletów
+
+2.  na terenie Gdyni jeżdżą linie zwykłe (oznaczenia cyfrowe, np. 21,
+    141), pospieszne (oznaczenia literowe, np. S, W, K) oraz dwie linie
+    specjalne (4A, 4F) i nocne (oznaczenia literowo-cyfrowe
+    rozpoczynające się literą N, np. N20)
+
+3.  rodzaje dostępnych biletów:
+
+    -   jednoprzejazdowe (po skasowaniu bilet jest ważny na jeden
+        przejazd, niezależnie od czasu trwania przejazdu; w przypadku
+        przesiadki do innego autobusu/trolejbusu – należy skasować
+        kolejny bilet jednoprzejazdowy):
+
+        -   na linie zwykłe (bilety w kolorze niebieskim)
+
+        -   na linie pospieszne, specjalne, nocne (bilety w
+            kolorze czerwonym)
+
+    -   czasowe (czas liczony od momentu skasowania biletu):
+
+        -   1-godzinne (albo tylko na linie zwykłe, albo na
+            wszystkie linie)
+
+        -   24-godzinne (na wszystkie linie)
+
+4.  koszt biletów:
+
+      {{< nbsp >}}{{< nbsp >}}**rodzaj biletu** {{< nbsp >}} {{< nbsp >}} {{< nbsp >}} {{< nbsp >}} {{< nbsp >}}{{< nbsp >}}| **normalny** {{< nbsp >}} |  **ulgowy**
+      ----------------------------------------- |--------------| ------------
+      {{< nbsp >}}{{< nbsp >}}jednoprzejazdowe (tylko linie zwykłe)    | 3,20 zł     |    1,6 zł
+      {{< nbsp >}}{{< nbsp >}}jednoprzejazdowe (wszystkie linie)        | 4,20 zł      |   2,1 zł
+      {{< nbsp >}}{{< nbsp >}}czasowe 1-godzinne (tylko linie zwykłe) |  3,80 zł     |    1,9 zł
+      {{< nbsp >}}{{< nbsp >}}czasowe 1-godzinne (wszystkie linie)     | 4,80 zł      |   2,4 zł
+      {{< nbsp >}}{{< nbsp >}}czasowe 24-godzinne (wszystkie linie)    | 13,0 zł   |     6,5 zł
+
+    <br/>
+
+    -   uprawnienia do przejazdów ulgowych i bezpłatnych znajdziecie Państwo [**TUTAJ**](http://www.zkmgdynia.pl/?mod=1.%20Taryfa%20-%20Uprawnienia%20do%20przejazd%C3%B3w%20ulgowych%20i%20bezp%C5%82atnych&lang=pl)
+
+    -   uwaga: pojedynczy bilet ma najczęściej wartość biletu ulgowego (np.
+        1,60 zł; 2,10 zł); osoby nieuprawnione do przejazdów ulgowych muszą
+        skasować 2 bilety ulgowe – do ceny biletu normalnego (np. skasuj 2
+        bilety ulgowe o wartości 1,60 zł/każdy do ceny biletu normalnego
+        jednoprzejazdowego 3,20 zł; analogicznie - 2 bilety ulgowe o wartości 6,50
+        zł/każdy do ceny biletu normalnego 24-godzinnego 13 zł itd.);
+
+5.  zakup biletów:
+
+    -   bilety można nabyć u kierowcy
+
+        uwaga: w przypadku biletów jednoprzejazdowych kierowca sprzedaje
+        jedynie tzw. karnety, na które składa się 5 sztuk biletów ulgowych;
+        oznacza to, że cena 1 karnetu to – w zależności od linii zwykłej lub
+        pospiesznej - albo 8 zł (5x1,6zł), albo 10,50 zł (5x2,10zł,); warto mieć
+        odliczoną gotówkę; powyższe nie dotyczy biletów czasowych
+
+    -   bilety można nabyć także w punktach sprzedaży biletów, wybranych
+        kioskach lub na niektórych dworcach – dość powszechną praktyką wśród
+        osób nie posiadających biletów miesięcznych jest jednak zakup
+        biletów u kierowcy
+
+**Jeśli nie jesteście Państwo pewni, który bilet ZKM kupić i gdzie,
+rekomendujemy zakup biletu 24-godzinnego u kierowcy.**
+
+Aktualny rozkład jazdy oraz taryfikatory znajdziecie Państwo [**TUTAJ**](http://www.zkmgdynia.pl)
+
+<br/>
+
+**BILETY SKM**
+
+1.  koszt biletów:
+
+    -   zróżnicowany w zależności od trasy; bilet normalny z przystanku
+        Gdynia Główna do przystanku Gdynia Redłowo to koszt 3,20 zł
+
+2.  zakup biletów:
+
+    -   w kasach SKM na dworcach kolejowych (bilet wymaga skasowania –
+        żółte kasowniki dostępne przy wejściach na perony),
+
+    -   w biletomatach umieszczonych na peronach (bilet nie wymaga już
+        skasowania);
+
+    -   u konduktora (należy wejść do pierwszego wagonu; bilet nie
+        wymaga już skasowania)
+
+Aktualny rozkład jazdy oraz taryfikatory znajdziecie Państwo
+[**TUTAJ**](http://www.skm.pkp.pl)
+
+<br/>
+
+**TAXI**
+
+Rekomendujemy przewóz taksówkami Speed Drivers – tel. 537-038-559 lub
+733-666-171
+
+Więcej informacji znajdą Państwo [**TUTAJ**](http://www.speeddrivers.pl)
+{{% /nowrapconj %}}

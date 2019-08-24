@@ -1,0 +1,15 @@
+baseurl = "http://dialog.mopsgdynia.pl/"
+languageCode = "pl-pl"
+title = ""
+[blackfriday]
+	fractions = false
+
+defaultContentLanguage = "pl"
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.pl]
+weight = 10
+languageName = "Polish"

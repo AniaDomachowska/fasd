@@ -1,0 +1,110 @@
++++
+date = "2016-06-21T01:23:54+02:00"
+draft = false
+title = "Miejsce"
+weight = 6
+menufile = "informacje.png"
+menufileSel = "informacje sel.png"
+altfile = "miejsce.png"
+altfileSel = "miejsce sel.png"
+parent = ""
+url = "informacje"
++++
+
+<br/>
+
+{{% nowrapconj %}}
+Centrum Konferencyjne Pomorskiego Parku Naukowo-Technologicznego Gdynia
+przy al. Zwycięstwa 96 / 98, budynek III.
+
+Sesje plenarne odbędą się w sali audytoryjnej C (parter, wejście przy
+Centrum Nauki Experyment).
+
+Więcej informacji na temat PPNT Gdynia, znajdą Państwo [***TUTAJ***](http://www.ppnt.pl/pl)
+
+{{% /nowrapconj %}}
+{{< gallery >}}
+
+<div id="links" class="gallery">
+	<div>
+    	<a href="../images/PPNT/PPNT 01.jpg" data-gallery>
+        	<img src="../images/PPNT/tn_PPNT 01.jpg">
+    	</a>
+    </div>
+    <div>
+        <a href="../images/PPNT/PPNT 02.jpg" data-gallery>
+            <img src="../images/PPNT/tn_PPNT 02.jpg">
+        </a>
+    </div>
+    <div>
+        <a href="../images/PPNT/PPNT 03.jpg" data-gallery>
+            <img src="../images/PPNT/tn_PPNT 03.jpg">
+        </a>
+    </div>
+    <div>
+        <a href="../images/PPNT/PPNT 04.jpg" data-gallery>
+            <img src="../images/PPNT/tn_PPNT 04.jpg">
+        </a>
+    </div>
+    <div>
+        <a href="../images/PPNT/PPNT 05.jpg" data-gallery>
+            <img src="../images/PPNT/tn_PPNT 05.jpg">
+        </a>
+    </div>
+    <div>
+        <a href="../images/PPNT/PPNT 06.jpg" data-gallery>
+            <img src="../images/PPNT/tn_PPNT 06.jpg">
+        </a>
+    </div>
+</div>
+
+<br/>
+
+{{% nowrapconj %}}
+
+**Jak dotrzeć do Pomorskiego Parku Naukowo-Technologicznego Gdynia?**
+
+Dojazd do miejsca konferencyjnego:
+
+1.  osoby wybierające transport ZKM: należy wysiąść na przystanku
+    **Centrum Nauki Experyment** (dojście z przystanku do budynku nr III
+    PPNT zajmuje pieszo ok. 5 minut)
+
+2.  osoby wybierające transport SKM: należy wysiąść na przystanku
+    **Gdynia-Redłowo** (dojście z peronu do budynku nr III PPNT zajmuje
+    pieszo ok. 10 minut)
+
+Dla osób podróżujących z Dworca Głównego PKP:
+
+1.  bezpośrednie linie ZKM odjeżdżające z przystanku **Gdynia
+    Dworzec Gł. PKP** to 21, 23, 24 (podróż zajmuje ok. 15-20 minut)
+
+2.  bezpośrednie połączenie SKM – peron SKM – tor w kierunku Gdańska
+    (podróż zajmuje ok. 5 minut)
+
+{{% /nowrapconj %}}
+
+{{< ppntmap >}}
+
+<br/>
+{{% nowrapconj %}}
+Przygotowaliśmy dla Państwa dodatkowe informacje praktyczne dotyczące
+komunikacji miejskiej oraz bazy hotelowo-noclegowej w Gdyni. Mamy
+nadzieję, że okażą się użyteczne i pomocne przy planowaniu pobytu w
+Gdyni podczas konferencji.
+{{% /nowrapconj %}}
+
+<span class="info-links">
+<table width="100%">
+<tr>
+<td style="width:20%""></td>
+<td style="width:30%;text-align:center">
+   [![Proponowane miejsca noclegowe w Gdyni](../images/miejsca noclegowe.png )](../noclegi)
+</td>
+<td style="width:30%;text-align:center">
+ [![Komunikacja miejska w Gdyni](../images/komunikacja_maly.png)](../komunikacja)
+</td>
+<td style="width:20%""></td>
+</tr>
+</table>
+</span>

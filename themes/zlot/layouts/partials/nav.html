@@ -1,0 +1,8 @@
+          {{ $menuList :=  $.Site.Pages}}
+          <nav id="fixedbar">
+            {{ partial "menuTop" (dict "Site" $.Site) }}
+           </nav>
+
+           <nav>
+              {{ partial "menuTop" (dict "Site" $.Site "Permalink" .Permalink) }}
+           </nav>

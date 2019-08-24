@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+		<article>
+        <header>
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        </header>
+        {{ .Content }}
+    </article>
+{{ partial "footer.html" . }}

@@ -1,0 +1,12 @@
+
+{{ $files := readDir ".\\static\\images\\Galeria\\" }}
+<div id="nanoGallery3">
+{{ range $files }}
+    {{ if not (hasPrefix .Name "tn_") }} 
+        <a href="../images/Galeria/{{ .Name }}" data-ngthumb="../images/Galeria/tn_{{ .Name }}" >
+        </a>
+    {{ end }}
+{{ end }}
+
+</div>
+

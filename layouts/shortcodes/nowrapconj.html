@@ -1,0 +1,1 @@
+{{ .Inner | replaceRE "(\\s+(z|w|i|a|o|Z|W|I|A|O|–|-)(\\s|\\n|$)+([^\\s\\n]+))" "<span style=\"white-space: nowrap\">$1</span>" | safeHTML}}
